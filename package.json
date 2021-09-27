@@ -1,0 +1,53 @@
+{
+  "name": "bot-wa",
+  "version": "0.0.2",
+  "description": "yabegitulah",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Akkun3704",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ultimareall/bot-wa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ultimareall/bot-wa/issues"
+  },
+  "homepage": "https://github.com/ultimareall/bot-wa",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.2",
+    "acrcloud": "^1.4.0",
+    "awesome-phonenumber": "^2.54.0",
+    "axios": "^0.21.4",
+    "booru": "^2.4.2",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.10",
+    "deepai": "^1.0.17",
+    "file-type": "^16.5.1",
+    "form-data": "^4.0.0",
+    "fs-extra": "^10.0.0",
+    "google-it": "^1.6.2",
+    "got": "^11.8.2",
+    "image-to-pdf": "^1.0.0",
+    "jsdom": "^16.6.0",
+    "moment-timezone": "^0.5.33",
+    "nhentai-node-api": "^1.1.2",
+    "node-fetch": "^2.6.1",
+    "hxz-api": "^1.0.1",
+    "telegraph-uploader": "^2.0.0",
+    "node-webpmux": "^3.1.0",
+    "qs": "^6.10.1",
+    "removebg-id": "^2.0.1",
+    "request": "^2.88.2",
+    "syntax-error": "^1.4.0",
+    "uguu-api": "^0.1.8",
+    "util": "^0.12.4",
+    "yt-search": "^2.9.0",
+    "ytdl-core": "^4.9.1"
+  }
+}
